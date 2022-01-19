@@ -5,7 +5,7 @@ Decentralise community of job seekers and providers (Algoconnectpro) on Algorand
 
 We were inspired by a challenge of helping companies to connect to the right talent they are looking for and making hiring process more transparent and community driven by modifying primitive hiring methods.
 
-###In this project Present working:
+### In this project Present working:
 
 Users can do login transaction into the network. Companies can post jobs as smart contracts. Users can refer other job seekers by bidding certain ammount against them(bidding amount per user has a cap  so that people don't randomly refer and the person refered most is tested first by company ). If the user is selected then the bounty amount will be distributed among  everyone helped him hire by refering (at present) , verifying(yet to include) him and other hiring stages can be included in future.
 
